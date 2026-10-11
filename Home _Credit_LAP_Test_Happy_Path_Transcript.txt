@@ -1,0 +1,23 @@
+agent: Hello, this is Priya calling from Home Credit. Am I speaking with Rahul?
+user: Yes. This is Rahul speaking. 
+agent: Thank you, Rahul. We’re calling about a special pre-approved Loan Against Property offer of up to ₹75 lakh, subject to a preliminary check. Do you have a couple of minutes?
+user: Yes. I'm available. 
+user: Please go ahead. 
+agent: What type of property are you planning to use for the loan—residential, commercial, or industrial?
+user: It's a residential flat. 
+agent: Is the property solely in your name, or jointly owned with someone else?
+user: It's solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. I have the original documents. 
+user: available for verification. 
+agent: How much loan amount are you looking for?
+user: I'm looking for fifty lakh rupees. 
+agent: Are you salaried or self-employed, and do you receive your income through a bank account or in cash?
+user: I'm self employed, and my income is received directly into my bank account. 
+agent: Approximately, what is the current market value of your property?
+user: It's approximately one crore 
+agent: How many years would you like to take to 
+user: I would prefer 
+agent: repay the loan?
+user: a ten year of ten years. 
+agent: Thank you, Rahul. Based on the information you've shared, you meet the preliminary criteria for the next step. A senior loan expert will contact you shortly to discuss the exact interest rate and next steps. This isn't final loan approval. Thank you for your time, and have a great day.

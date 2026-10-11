@@ -1,0 +1,10 @@
+agent: Hello, this is Priya calling from Home Credit. Am I speaking with Rahul?
+user: Yes. This is Rahul speaking. 
+agent: Thank you, Rahul. We’re reaching out about a special Loan Against Property offer of up to ₹75 lakh, subject to a preliminary eligibility check. Do you have a couple of minutes?
+user: Yes. I'm available. 
+agent: What type of property are you planning to use for the loan—residential, commercial, or industrial?
+user: I own agricultural land, and I would like to use it for the 
+agent: Thank you for sharing 
+user: loan. 
+agent: that. I'm sorry, this specific offer isn't available for agricultural properties. Thank you for your time, and 
+agent: have a good day.
